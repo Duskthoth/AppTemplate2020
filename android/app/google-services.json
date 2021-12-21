@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030602127924",
+    "firebase_url": "https://shark-stuff-8d42c.firebaseio.com",
+    "project_id": "shark-stuff-8d42c",
+    "storage_bucket": "shark-stuff-8d42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030602127924:android:b3992aff18a1bc2dbc2861",
+        "android_client_info": {
+          "package_name": "com.dusk.shark_stuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030602127924-5f7obmdfe4vs0lbfqp3qpqdsmopqr2se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPZTpmwR1TPXnDkI1iDZjKO_kbpVQjr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030602127924-5f7obmdfe4vs0lbfqp3qpqdsmopqr2se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
